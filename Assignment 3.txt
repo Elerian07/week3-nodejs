@@ -1,0 +1,14 @@
+/*Assignment 3 :  Using MYSQL and Express 
+**Creat API to:
+ 1-GetAllUsers done
+2-AddUser done
+3-UpdateUserByID done
+4-DeleteUserByID done
+5-GetUserByID done
+6-Search by name use like done
+7-Get all user reversed done
+8- search user age between 20 and 40 done
+9-get user name start with A and age less than 30  done
+10-get user name end with  d or age greater than 50 done
+11-get user name contain  r   and  age greater than 20 and less than 25 done
+12- soft delete user*/
